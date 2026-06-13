@@ -1,4 +1,4 @@
-# APB_BASED_UART_design_and_verification
+# APB_UART
 ## Protocols Used
 ### [APB (Advanced Peripheral Bus)]
 
